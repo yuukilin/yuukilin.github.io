@@ -1,13 +1,13 @@
 ---
-title: 人生CHECK LIST
+title: CHECK LIST
 description: Print Hello World
 slug: mylife-checklist
 date: 2024-06-11 22:26:40+0000
 image: 這是你開啟的故事.jpeg
 categories:
-    - 致20年後的你
+    - Example Category
 tags:
-    - CHECK LIST
+    - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 * 目標是什麼：誰知道呢？人生有不一樣的可能性，Spark is not my purpose.
