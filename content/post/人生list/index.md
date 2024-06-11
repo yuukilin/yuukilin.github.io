@@ -1,8 +1,8 @@
 ---
-title: CHECK LIST
-description: Print Hello World
-slug: mylife-checklist
-date: 2024-06-11 22:26:40+0000
+title: 我的 CHECK LIST
+description: 人生有不一樣的可能性
+slug: my-checklist
+date: 2024-06-11 00:00:00+0000
 image: youstory.jpeg
 categories:
     - Example Category
