@@ -4,7 +4,7 @@ threshold = 60
 toLower = false
 
 [[indices]]
-name = "tags"
+name = "標籤"
 weight = 100
 
 [[indices]]
