@@ -1,13 +1,13 @@
 ---
-title: 我的 CHECK LIST
+title: 我的人生 CHECK LIST
 description: 人生有不一樣的可能性
 slug: my-checklist
 date: 2024-06-11 00:00:00+0000
 image: youstory.jpeg
 categories:
-    - 
+    - 腦袋裡的東西
 tags:
-    - Example Tag
+    - CHECK LIST
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 * 目標是什麼：誰知道呢？人生有不一樣的可能性，Spark is not my purpose.

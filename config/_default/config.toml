@@ -19,7 +19,7 @@ disqusShortname = "hugo-theme-stack"
   name = "Diary"
   url = "/diary/"
   weight = 3
-  params = { icon = "threads" }
+  params = { icon = "diary" }
 
 [params]
   mainSections = ["post"]
