@@ -10,15 +10,16 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/yuukilin"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "threads"
+name = "Threads"
+url = "https://www.threads.net/@yuukilin22"
 
 [social.params]
-icon = "brand-twitter"
+icon = "threads"
+newtab = true

@@ -5,7 +5,7 @@ slug: my-checklist
 date: 2024-06-11 00:00:00+0000
 image: youstory.jpeg
 categories:
-    - Example Category
+    - 
 tags:
     - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
@@ -19,6 +19,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 * 不斷的嘗試，找到自己喜歡的東西，最後讓自己的每一天都充滿著喜歡的人事物
 * 要確定該做什麼最好的方法就是去做。若你不確定要做什麼，就先猜。選一個事情，然後上路。
 * 持續有紀律的累積，是破除迷惘的關鍵
+* 不要為了錢去做無法累積的工作，重要的不是現在賺的錢，是10年後你要靠什麼賺錢
+
 
 現在26歲，大概從21歲就在不斷的試圖尋找人生的意義、什麼才是我喜歡的、我有熱情的、我有天份的，
 一個能夠做的又開心又好的工作，
