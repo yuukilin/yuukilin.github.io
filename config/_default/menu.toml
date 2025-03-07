@@ -15,11 +15,12 @@ url = "https://github.com/yuukilin"
 [social.params]
 icon = "brand-github"
 
-[[social]]
-identifier = "threads"
-name = "Threads"
-url = "https://www.threads.net/@yuukilin22"
 
-[social.params]
-icon = "threads"
-newtab = true
+#[[social]]
+#identifier = "threads"
+#name = "Threads"
+#url = "https://www.threads.net/@yuukilin22"
+
+#[social.params]
+#icon = "threads"
+#newtab = true

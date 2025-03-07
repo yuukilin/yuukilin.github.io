@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "5ceac477e0d26c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db1cd02dd75942b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6630bb3523e9dc26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae4b4ea51317905a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c4569e03eb6885c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110a254fbfd1bd56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91bba895606e2ff3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42eae58f30f5aefa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "920254d5563b9c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4acc1c948bb4d5eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d56a4a2168d53a51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68836f976609e98a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4bcc128ec098b18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f191acb735b4bd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "584dc208f6a9b2fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "publish:發佈變動內容": false,
+      "random-note:開始漫遊筆記": false
+    }
+  },
+  "active": "6630bb3523e9dc26",
+  "lastOpenFiles": [
+    "post/從0開始用CHATGPT及Hugo免費架設個人網站/index.md",
+    "Pasted image 20240714141110.png",
+    "Pasted image 20240714140417.png",
+    "Pasted image 20240714140034.png",
+    "Pasted image 20240714135922.png",
+    "Pasted image 20240713135122.png",
+    "post/人生list/index.md",
+    "post/從0開始用CHATGPT及Hugo免費架設個人網站",
+    "post/未命名.md",
+    "post/人生list/youstory.jpeg",
+    "page/diary/index.md",
+    "page/archives/index.md",
+    "diary/2024-06-22.md",
+    "2024-06-22.md",
+    "diary/2024-06-23.md",
+    "page/search/index.md",
+    "categories/example-category/_index.md",
+    "_index.md"
+  ]
+}
