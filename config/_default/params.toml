@@ -149,3 +149,7 @@ clientSecret = ""
 [comments.cusdis]
 host = ""
 id = ""
+
+[params]
+photoSwipe = true
+photoSwipeOptions = { "bgOpacity" = 0.9, "history" = false }
